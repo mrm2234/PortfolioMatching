@@ -1,3 +1,5 @@
+
+
 public class Asset implements Comparable<Asset> { //basic information
       private int amount;
       private String assetType;
