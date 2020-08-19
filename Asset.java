@@ -1,8 +1,7 @@
 /*****************************************
- * Molly McNutt - mrm2234
+ *  - mrm2234
  *
- * Sorts cards and reads out card values
-
+ * Creats an Asset object
  ****************************************/
 public class Asset implements Comparable<Asset>{
 
