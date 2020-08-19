@@ -1,7 +1,5 @@
 /*****************************************
- * Molly McNutt - mrm2234
- *
- *
+ * - mrm2234
  ****************************************/
  import java.io.BufferedReader;
  import java.io.IOException;
