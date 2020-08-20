@@ -92,7 +92,7 @@ public class Transactions {
                     if (a.getAssetType().equals(b.getAssetType())){
                         if (a.compareTo(b) !=0){
                             int x = a.getAmount()-b.getAmount();
-                            if (x<3){
+                            if (x<0){
                                 Asset theAsset = new Asset("BUY,", a.getCompany(), a.getAssetType(), Math.abs(x));
                                 list3.add(theAsset);
                             }
